@@ -67,7 +67,7 @@ background: rgba(255, 255, 255, 0.15);
   scrollbar-width: none;
   -ms-overflow-style: none;
 }
-*:-webkit-scrollbar {
+*::-webkit-scrollbar {
   display: none;
 }
 
