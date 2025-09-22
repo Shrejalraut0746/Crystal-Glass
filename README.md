@@ -16,3 +16,8 @@
 <a href="https://greasyfork.org/en/scripts/550269-messenger-liquid-glass-theme">
   <img alt="Get the Tampermonkey Version" src="https://img.shields.io/badge/Tampermonkey_Version-525252?style=for-the-badge&logo=tampermonkey&logoColor=white">
 </a>
+
+## For Google Theme 🖌️
+<a href="https://userstyles.world/style/24326/macos-tahoe-google-search">
+  <img alt="Get the Google Theme" src="https://img.shields.io/badge/Google_Theme-1877F2?style=for-the-badge&logo=google&logoColor=white">
+</a>
