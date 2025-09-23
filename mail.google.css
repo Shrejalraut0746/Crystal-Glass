@@ -1,0 +1,128 @@
+/* ==UserStyle==
+@name           Better Gmail Theme
+@namespace      github.com/CtorW/
+@version        1.0.0
+@license        CC-BY-NC-ND-4.0
+@description    Better Gmail Theme Cystal
+@author         CtorW
+==/UserStyle== */
+
+@-moz-document domain("mail.google.com") {
+  .aeN {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+  }
+
+  #gb {
+    margin: 10px;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+
+  div.nH.bkK {
+    margin: 25px;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+
+  .brC-aT5-aOt-Jw {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+
+  .aAU {
+    background: #e6edf7;
+  }
+  .qp {
+    background: #e6edf7;
+  }
+  #aso_search_form_anchor {
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+  .lJradf {
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+  .gb_Za {
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+  .z0 > .L3 {
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+
+  .TK .TO.nZ:active,
+  .TK .TO.ol:active,
+  .TK .TO.nZ,
+  .TK .TO.ol,
+  .byl .TK .nZ.aBP,
+  .byl .TK .nZ.aS3,
+  .byl .TK .nZ.aS4,
+  .byl .TK .nZ.aS5,
+  .byl .TK .nZ.aS6,
+  .VDSZAf.H5o3mc {
+    background-color: #d3e3fd;
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 8px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+
+  div.nH.aqk.aql.bkL {
+    background: #e6edf7;
+  }
+  #\:b {
+    background: #e6edf7;
+  }
+
+  .z0 {
+    margin-left: 20px;
+  }
+
+  div.T-P.tO {
+    background-color: #d3e3fd;
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 8px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+
+  div.SK.ZF-zT {
+    margin: 1rem;
+    background-color: #d3e3fd;
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 8px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+
+  .boo .nr,
+  .boo .nr:focus,
+  .ZF-Av .boo .nr:focus {
+    background-color: #d3e3fd;
+  }
+}
