@@ -12,8 +12,6 @@
     background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
-    border-radius: 1rem;
-    border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
   }
@@ -22,8 +20,6 @@
     background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
-    border-radius: 1rem;
-    border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
   }
@@ -32,8 +28,6 @@
     background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
-    border-radius: 1rem;
-    border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
   }
@@ -49,14 +43,6 @@
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
   }
 
-  body {
-    background-image: url("https://scontent.fmnl9-1.fna.fbcdn.net/v/t39.30808-6/550408152_665578929925520_6203834087554909527_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=f727a1&_nc_eui2=AeHtwipI2I9PmSlMwqpIyA2dep08LtgNCP56nTwu2A0I_jgWil3KWgSGuiHnDG-domaWJsLtNcg50AH0eiV0gaH1&_nc_ohc=t5axhjVI3WEQ7kNvwGfKt38&_nc_oc=AdmQzw38ZTZS_Qx78ZEeqKR1soeSbSbVdMH9QVI6YXcsoBCS7ixKew0NUN2BcxpKvFc&_nc_zt=23&_nc_ht=scontent.fmnl9-1.fna&_nc_gid=2aXD0EcyF_PGMSz6Qu2HmQ&oh=00_AfahdRJnvx8UgU2otjVGIUzDs_qfcI0vmQrsRWXHdQGE8w&oe=68D5D224") !important;
-    background-size: cover !important;
-    background-position: center center !important;
-    background-repeat: no-repeat !important;
-    background-attachment: fixed !important;
-  }
-
   .x1us19tq > .x1iyjqo2 {
     margin: 10px 10px 10px 10px !important;
     background: rgba(255, 255, 255, 0.15);
@@ -64,8 +50,6 @@
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, 0.8);
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
   }
 
   .xdt5ytf > .x1y1aw1k {
@@ -75,8 +59,6 @@
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, 0.8);
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
   }
 
   .x1yztbdb:nth-child(2) > .html-div > .x1n2onr6 {
@@ -165,6 +147,7 @@
   }
 
   .xwnonoy {
+    border-radius: 1rem;
     background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
@@ -173,8 +156,6 @@
   }
 
   .xw2csxc {
-    margin: 1rem;
-    padding: 1rem;
     background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
@@ -200,6 +181,125 @@
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+
+  .x2k6n7x {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+  .x9f619:nth-child(1) .x1c4vz4f:nth-child(2) .html-div:nth-child(1) {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+  .x9f619:nth-child(1)
+    > .x9f619:nth-child(1)
+    > .x9f619:nth-child(2)
+    .x1c4vz4f:nth-child(3)
+    .html-div:nth-child(1) {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+
+  .x9f619:nth-child(1)
+    > .x9f619:nth-child(1)
+    > .x9f619:nth-child(2)
+    .x1c4vz4f:nth-child(4)
+    .html-div:nth-child(1) {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+  .x9f619:nth-child(1)
+    > .x9f619:nth-child(1)
+    > .x9f619:nth-child(2)
+    .x1c4vz4f:nth-child(5)
+    .html-div:nth-child(1) {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+  .x9f619:nth-child(1)
+    > .x9f619:nth-child(1)
+    > .x9f619:nth-child(2)
+    .x1c4vz4f:nth-child(6)
+    .html-div:nth-child(1) {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+  .x9f619:nth-child(1)
+    > .x9f619:nth-child(1)
+    > .x9f619:nth-child(2)
+    .x1c4vz4f:nth-child(7)
+    .html-div:nth-child(1) {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+  .x9f619:nth-child(1)
+    > .x9f619:nth-child(1)
+    > .x9f619:nth-child(2)
+    .x1c4vz4f:nth-child(8)
+    .html-div:nth-child(1) {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+  .x1n2onr6 > .x1iorvi4:nth-child(1) {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+  .x1i10hfl > .x6s0dn4 > .x78zum5 > .html-div {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 64px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+  .x1l31dnx {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+
+  .xezm23g {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  }
+
+  div.x1cvmir6 {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
   }
