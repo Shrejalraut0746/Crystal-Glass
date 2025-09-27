@@ -1,306 +1,300 @@
 /* ==UserStyle==
 @name           Crystal Glass Facebook
 @namespace      github.com/CtorW/
-@version        3.0.0
+@version        3.5.0
 @license        CC-BY-NC-ND-4.0
 @description    Crystal Glass Theme For Facebook by CtorW
 @author         CtorW
 ==/UserStyle== */
 
 @-moz-document domain("facebook.com") {
-  .x9f619.x1n2onr6.x1ja2u2z.x1ve1bff.x78zum5.xdt5ytf.x1s65kcs {
-    background: rgba(255, 255, 255, 0.15);
+div > div:nth-child(1) > div > div:nth-child(3) > div.xtijo5x.x1o0tod.xixxii4.x13vifvy.x1vjfegm > div {
+background: rgba(255, 255, 255, 0.35);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 
-  .x1a2a7pz.x1qjc9v5.xal68kn.x51dqfy.x1w4cqa3.x1byqp33.x9f619.x78zum5.x1fns5xo.x1n2onr6.xh8yej3.x1ba4aug.xmjcpbm {
-    background: rgba(255, 255, 255, 0.15);
+div > div:nth-child(1) > div > div:nth-child(3) > div.x9f619.x1s65kcs.x1o0tod.x16xn7b0.xixxii4.x13vifvy.xj35x94.xhtitgo.xmy5rp > div > div > div > div > div > label {
+background: rgba(255, 255, 255, 0.35);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 
-  .html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x9f619.xdt5ytf.xh8yej3.x1lliihq.x1n2onr6.xhq5o37.x1qxoq08.x1cpjm7i.xtyp5od.x1682cnc.x1hmns74.x1y3wzot.xaqea5y.x12wdn4z.xde0f50.x15x8krk.x1f0uuog.x6umtig.x1v1fdz6.xtpoxf9.xfbg1o9.x1kphnah.x1de4urk.xyt8op7 {
-    background: rgba(255, 255, 255, 0.15);
+div > div:nth-child(1) > div > div:nth-child(3) > div.x9f619.x1s65kcs.x1o0tod.x16xn7b0.xixxii4.x13vifvy.x1m258z3.xoegz02.xmy5rp.x1jx94hy > div > div {
+background: rgba(255, 255, 255, 0.35);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 
-  .x1iofjn4 {
-    margin-top: 10px !important;
-    background: rgba(255, 255, 255, 0.15);
+div > div:nth-child(1) > div > div:nth-child(3) > div.x9f619.x1s65kcs.x1o0tod.x16xn7b0.xixxii4.x13vifvy.x1m258z3.xoegz02.xmy5rp.x1jx94hy > div > div > div.html-div.xdj266r.x14z9mp.x1lziwak.xexx8yu.x18d9i69.x6s0dn4.x9f619.x78zum5.x1s65kcs.x1wsgfga.xv54qhq.xf7dkkf > div > div > label  {
+background: rgba(255, 255, 255, 0.35);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 
-  .x1us19tq > .x1iyjqo2 {
-    margin: 10px 10px 10px 10px !important;
-    background: rgba(255, 255, 255, 0.15);
-    backdrop-filter: blur(10px) saturate(180%);
-    -webkit-backdrop-filter: blur(10px) saturate(180%);
-    border-radius: 1rem;
-    border: 1px solid rgba(255, 255, 255, 0.8);
-  }
-
-  .xdt5ytf > .x1y1aw1k {
-    margin: 10px 10px 10px 10px !important;
-    background: rgba(255, 255, 255, 0.15);
-    backdrop-filter: blur(10px) saturate(180%);
-    -webkit-backdrop-filter: blur(10px) saturate(180%);
-    border-radius: 1rem;
-    border: 1px solid rgba(255, 255, 255, 0.8);
-  }
-
-  .x1yztbdb:nth-child(2) > .html-div > .x1n2onr6 {
-    margin: 10px 10px 10px 10px !important;
-    background: rgba(255, 255, 255, 0.15);
+div > div:nth-child(1) > div > div:nth-child(3) > div.x9f619.x1s65kcs.x1o0tod.x16xn7b0.xixxii4.x13vifvy.x1m258z3.xoegz02.xmy5rp.x1jx94hy > div > div > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl > div {
+background: rgba(255, 255, 255, 0.35);
+  margin-top: 1rem;
+  padding: 1rem;
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 
-  .x7sb2j6 {
-    background: rgba(255, 255, 255, 0.15);
-    backdrop-filter: blur(10px) saturate(180%);
-    -webkit-backdrop-filter: blur(10px) saturate(180%);
-  }
-
-  .x760vw.x1016tqk.x1dquyif[aria-hidden="true"] {
-    margin: 10px 10px 10px 10px !important;
-    background: rgba(255, 255, 255, 0.15);
+div > div:nth-child(1) > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div > div.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1ja2u2z.x10cihs4 > div.x9f619.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1t2pt76.x17upfok > div > div.x9f619.x1ja2u2z.xnp8db0.x112wk31.xnjgh8c.xxc7z9f.x1t2pt76.x1u2d2a2.x6ikm8r.x10wlt62.x1xzczws.x7wzq59.xxzkxad.x9e5oc1 > div > div > div.x78zum5.xdt5ytf.x1iyjqo2.x1n2onr6 > div > div > div.x1iyjqo2 > div:nth-child(1) > div:nth-child(2) > div > div.x6s0dn4.x1q0q8m5.x1qhh985.x18b5jzi.x10w94by.x1t7ytsu.x14e42zd.x13fuv20.x972fbf.x9f619.x78zum5.x1q0g3np.x1iyjqo2.xs83m0k.x1qughib.xat24cr.x14z9mp.x1lziwak.xdj266r.xeuugli.x18d9i69.xf159sx.xmzvs34.xexx8yu.x1n2onr6.x1ja2u2z.x1gg8mnh > div.x78zum5.xdt5ytf.x1xmf6yo.x1e56ztr.xbmvrgn.x1n2onr6.xamitd3.xv2ei83.x1og3r51.xfo7p31.x12lgkml.xv3fwf9 > div {
+background: rgba(255, 255, 255, 0.35);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-  .x12ol6y4 {
-    background: rgba(255, 255, 255, 0.15);
+}
+
+div > div:nth-child(1) > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div > div.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1ja2u2z.x10cihs4 > div.x9f619.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1t2pt76.x17upfok > div > div.x9f619.x1ja2u2z.x78zum5.x1n2onr6.x1iyjqo2.xs83m0k.xeuugli.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1iplk16.x1mfogq2.xsfy40s.x1wi7962.xpi1e93 > div > div > div > div.x78zum5.x1q0g3np.xl56j7k > div > div.x1yztbdb > div > div   {
+background: rgba(255, 255, 255, 0.35);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 
-  .x1lliihq:nth-child(1) .html-div:nth-child(13) {
-    background: rgba(255, 255, 255, 0.15);
+div > div:nth-child(1) > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div > div.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1ja2u2z.x10cihs4 > div.x9f619.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1t2pt76.x17upfok > div > div.x9f619.x1ja2u2z.x78zum5.x1n2onr6.x1iyjqo2.xs83m0k.xeuugli.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1iplk16.x1mfogq2.xsfy40s.x1wi7962.xpi1e93 > div > div > div > div.x78zum5.x1q0g3np.xl56j7k > div > div.x1yztbdb > div > div > div > div.x1cy8zhl.x78zum5.x1iyjqo2.xs83m0k.xh8yej3 > div:nth-child(3) {
+background: rgba(255, 255, 255, 0.35);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 
-  .xlhe6ec {
-    background: rgba(255, 255, 255, 0.15);
+div > div:nth-child(1) > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div > div.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1ja2u2z.x10cihs4 > div.x9f619.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1t2pt76.x17upfok > div > div.x9f619.x1ja2u2z.x78zum5.x1n2onr6.x1iyjqo2.xs83m0k.xeuugli.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1iplk16.x1mfogq2.xsfy40s.x1wi7962.xpi1e93 > div > div > div > div.x78zum5.x1q0g3np.xl56j7k > div > div.x1yztbdb > div > div > div > div.x78zum5.x1vqgdyp.x1a02dak.x1l1ennw.x6ikm8r.x10wlt62.xh8yej3.xqmpxtq.x13fuv20.x178xt8z.x14vqqas.x1y1aw1k > div:nth-child(1)   {
+background: rgba(255, 255, 255, 0.35);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+}
+
+div > div:nth-child(1) > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div > div.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1ja2u2z.x10cihs4 > div.x9f619.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1t2pt76.x17upfok > div > div.x9f619.x1ja2u2z.x78zum5.x1n2onr6.x1iyjqo2.xs83m0k.xeuugli.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1iplk16.x1mfogq2.xsfy40s.x1wi7962.xpi1e93 > div > div > div > div.x78zum5.x1q0g3np.xl56j7k > div > div.x1yztbdb > div > div > div > div.x78zum5.x1vqgdyp.x1a02dak.x1l1ennw.x6ikm8r.x10wlt62.xh8yej3.xqmpxtq.x13fuv20.x178xt8z.x14vqqas.x1y1aw1k > div:nth-child(3) {
+background: rgba(255, 255, 255, 0.35);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+}
+
+div > div:nth-child(1) > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div > div.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1ja2u2z.x10cihs4 > div.x9f619.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1t2pt76.x17upfok > div > div.x9f619.x1ja2u2z.x78zum5.x1n2onr6.x1iyjqo2.xs83m0k.xeuugli.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1iplk16.x1mfogq2.xsfy40s.x1wi7962.xpi1e93 > div > div > div > div.x78zum5.x1q0g3np.xl56j7k > div > div.x1yztbdb > div > div > div > div.x78zum5.x1vqgdyp.x1a02dak.x1l1ennw.x6ikm8r.x10wlt62.xh8yej3.xqmpxtq.x13fuv20.x178xt8z.x14vqqas.x1y1aw1k > div:nth-child(4) {
+background: rgba(255, 255, 255, 0.35);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+}
+
+div > div:nth-child(1) > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div > div.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1ja2u2z.x10cihs4 > div.x9f619.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1t2pt76.x17upfok > div > div.x9f619.x1ja2u2z.x78zum5.x1n2onr6.x1iyjqo2.xs83m0k.xeuugli.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1iplk16.x1mfogq2.xsfy40s.x1wi7962.xpi1e93 > div > div > div > div.x78zum5.x1q0g3np.xl56j7k > div > div.x1hc1fzr.x1unhpq9.x6o7n8i > div > div:nth-child(3) > div > div > span > div > span > div > div > div > div > div > div > div > div > div > div {
+background: rgba(255, 255, 255, 0.35);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+}
+
+div > div.xu96u03.xm80bdy.x10l6tqk.x13vifvy > div.x1uvtmcs.x4k7w5x.x1h91t0o.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1n2onr6.x1qrby5j.x1jfb8zj > div > div > div  {
+background: rgba(255, 255, 255, 0.35);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+}
+
+div > div:nth-child(1) > div > div > div > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div.x1uvtmcs.x4k7w5x.x1h91t0o.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1n2onr6.x1qrby5j.x1jfb8zj > div > div:nth-child(1) > div > div {
+background: rgba(255, 255, 255, 0.35);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+}
+
+div > div:nth-child(1) > div > div:nth-child(5) > div > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div.x1uvtmcs.x4k7w5x.x1h91t0o.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1n2onr6.x1qrby5j.x1jfb8zj > div > div > div > div > div > div > div.xb57i2i.x1q594ok.x5lxg6s.x78zum5.xdt5ytf.x6ikm8r.x1ja2u2z.x1pq812k.x1rohswg.xfk6m8.x1yqm8si.xjx87ck.xx8ngbg.xwo3gff.x1n2onr6.x1oyok0e.x1odjw0f.x1iyjqo2.xy5w88m > div.x78zum5.xdt5ytf.x1iyjqo2.x1n2onr6.xaci4zi.x129vozr > div > div > div.xwya9rg.x14z9mp.x1e56ztr.x1lziwak.xh8yej3 > div > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.x18d9i69.x1g0dm76.xpdmqnj.x1n2onr6 > div.html-div.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1gslohp > div > div > div > div > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1n2onr6 > div > div.x1r8uery.x1iyjqo2.x6ikm8r.x10wlt62.xv54qhq > div > div.xv55zj0.x1vvkbs.x1rg5ohu.xxymvpz > div {
+background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+ div > div:nth-child(1) > div > div:nth-child(5) > div > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div.x1uvtmcs.x4k7w5x.x1h91t0o.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1n2onr6.x1qrby5j.x1jfb8zj > div > div > div > div > div > div > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1jx94hy.x190bdop.xp3hrpj.x1ey2m1c.x13xjmei.xv7j57z.xh8yej3 > div > div > div > div > div > div > div > div > div > div:nth-child(2) > div > div > div > div.x1r8uery.x1iyjqo2.x6ikm8r.x10wlt62.xyri2b > form {
+background: rgba(255, 255, 255, 0.35);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+      border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+div > div:nth-child(1) > div > div:nth-child(5) > div > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div.x1uvtmcs.x4k7w5x.x1h91t0o.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1n2onr6.x1qrby5j.x1jfb8zj > div > div > div > div > div > div > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.xh8yej3 > div >div > div {
+background: rgba(255, 255, 255, 0.35);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 
-  .x1lliihq:nth-child(1) .xt0b8zv:nth-child(3) {
-    background: rgba(255, 255, 255, 0);
-  }
-
-  .html-div:nth-child(1) > .html-div:nth-child(1) > div > .html-div {
-    background: rgba(255, 255, 255, 0);
-  }
-  .x1lliihq:nth-child(1)
-    .html-div:nth-child(3)
-    .html-div:nth-child(2)
-    > .html-div:nth-child(1) {
-    background: rgba(255, 255, 255, 0);
-  }
-
-  div.x1n2onr6.x1ja2u2z {
-    background: rgba(255, 255, 255, 0);
-  }
-
-  div[aria-label="Reactions"] {
-    background: rgba(255, 255, 255, 0.15);
+div > div:nth-child(1) > div > div:nth-child(6) > div.x1ey2m1c.xtijo5x.xixxii4.xamhafn.x1vjfegm > div.xuk3077.x78zum5.xc8icb0 > div:nth-child(2) > div > span > div {
+background: rgba(255, 255, 255, 0.35);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 
-  .xwnonoy {
-    border-radius: 1rem;
-    background: rgba(255, 255, 255, 0.15);
-    backdrop-filter: blur(10px) saturate(180%);
-    -webkit-backdrop-filter: blur(10px) saturate(180%);
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-
-  .xw2csxc {
-    background: rgba(255, 255, 255, 0.15);
+div > div:nth-child(1) > div > div:nth-child(5) > div > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div.x1uvtmcs.x4k7w5x.x1h91t0o.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1n2onr6.x1qrby5j.x1jfb8zj > div > div > div > div > div > div > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1jx94hy.x190bdop.xp3hrpj.x1ey2m1c.x13xjmei.xv7j57z.xh8yej3 > div > div > div > div > div > div > div > div > div > div > div > div > div > div.x1r8uery.x1iyjqo2.x6ikm8r.x10wlt62.xyri2b > form {
+background: rgba(255, 255, 255, 0.35);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     border-radius: 1rem;
-    border: 1px solid rgba(255, 255, 255, 0.8);
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-  .xpv9jar {
-    margin: 1rem;
-    background: rgba(255, 255, 255, 0.15);
+      border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+div > div > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div > div.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1ja2u2z.x10cihs4 > div.x9f619.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1t2pt76.x17upfok > div > div.x9f619.x1ja2u2z.xnp8db0.x112wk31.xnjgh8c.xxc7z9f.x1t2pt76.x1u2d2a2.x6ikm8r.x10wlt62.x7wzq59.xxzkxad.x1daaz14 > div > div > div.x78zum5.xdt5ytf.x1iyjqo2.x1n2onr6 {
+background: rgba(255, 255, 255, 0.35);
+  margin: 1rem;
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-  .x1vhhd5d {
-    padding: 1rem;
-    background: rgba(255, 255, 255, 0.15);
+}
+
+div > div > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div > div.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1ja2u2z.x10cihs4 > div.x9f619.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1t2pt76.x17upfok > div > div.x9f619.x1ja2u2z.xnp8db0.x112wk31.xnjgh8c.xxc7z9f.x1t2pt76.x1u2d2a2.x6ikm8r.x10wlt62.x1xzczws.x7wzq59.xxzkxad.x9e5oc1 > div {
+background: rgba(255, 255, 255, 0.35);
+  margin: 1rem;
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 
-  .x2k6n7x {
-    background: rgba(255, 255, 255, 0.15);
+div > div:nth-child(1) > div > div:nth-child(3) > div.xtijo5x.xv54qhq.x135b78x.xixxii4.x13vifvy.xzkaem6 > div:nth-child(2) > div > div > div.xu96u03.xm80bdy.x10l6tqk.x13vifvy > div.x1uvtmcs.x4k7w5x.x1h91t0o.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1n2onr6.x1qrby5j.x1jfb8zj {
+background: rgba(255, 255, 255, 0.16);
+  padding: 15px;
+  margin: 15px;
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-  .x9f619:nth-child(1) .x1c4vz4f:nth-child(2) .html-div:nth-child(1) {
-    background: rgba(255, 255, 255, 0.15);
-    backdrop-filter: blur(10px) saturate(180%);
-    -webkit-backdrop-filter: blur(10px) saturate(180%);
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-  .x9f619:nth-child(1)
-    > .x9f619:nth-child(1)
-    > .x9f619:nth-child(2)
-    .x1c4vz4f:nth-child(3)
-    .html-div:nth-child(1) {
-    background: rgba(255, 255, 255, 0.15);
-    backdrop-filter: blur(10px) saturate(180%);
-    -webkit-backdrop-filter: blur(10px) saturate(180%);
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 
-  .x9f619:nth-child(1)
-    > .x9f619:nth-child(1)
-    > .x9f619:nth-child(2)
-    .x1c4vz4f:nth-child(4)
-    .html-div:nth-child(1) {
-    background: rgba(255, 255, 255, 0.15);
+div > div:nth-child(1) > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div > div.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1ja2u2z.x10cihs4 > div.x9f619.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1t2pt76.x17upfok > div > div.x9f619.x1ja2u2z.x78zum5.x1n2onr6.x1iyjqo2.xs83m0k.xeuugli.xl56j7k.x1qjc9v5.xozqiw3.x1q0g3np.x1iplk16.x1mfogq2.xsfy40s.x1wi7962.xpi1e93 > div > div > div > div.x78zum5.x1q0g3np.xl56j7k > div > div.x1hc1fzr.x1unhpq9.x6o7n8i > div > div > div > div > span > div > span > div > div > div > div > div > div > div > div > div > div > div > div.html-div.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl > div > div > div.x6s0dn4.x78zum5.xz9dl7a.xpdmqnj.xsag5q8.x1g0dm76 > div > div > div.x9f619.x1ja2u2z.x78zum5.x2lah0s.x1n2onr6.x1qughib.x1qjc9v5.xozqiw3.x1q0g3np.xyamay9.x1lxpwgx.x165d6jo.x4vbgl9.x1rdy4ex > div > div.x1i10hfl.xjbqb8w.x1ejq31n.x18oe1m7.x1sy0etr.xstzfhl.x972fbf.x10w94by.x1qhh985.x14e42zd.x1ypdohk.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x16tdsg8.x1hl2dhg.xggy1nq.x1fmog5m.xu25z0z.x140muxe.xo1y3bh.x87ps6o.x1lku1pv.x1a2a7pz.x9f619.x3nfvp2.xdt5ytf.xl56j7k.x1n2onr6.xh8yej3 > div {
+background: rgba(255, 255, 255, 0.35);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-  .x9f619:nth-child(1)
-    > .x9f619:nth-child(1)
-    > .x9f619:nth-child(2)
-    .x1c4vz4f:nth-child(5)
-    .html-div:nth-child(1) {
-    background: rgba(255, 255, 255, 0.15);
-    backdrop-filter: blur(10px) saturate(180%);
-    -webkit-backdrop-filter: blur(10px) saturate(180%);
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-  .x9f619:nth-child(1)
-    > .x9f619:nth-child(1)
-    > .x9f619:nth-child(2)
-    .x1c4vz4f:nth-child(6)
-    .html-div:nth-child(1) {
-    background: rgba(255, 255, 255, 0.15);
-    backdrop-filter: blur(10px) saturate(180%);
-    -webkit-backdrop-filter: blur(10px) saturate(180%);
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-  .x9f619:nth-child(1)
-    > .x9f619:nth-child(1)
-    > .x9f619:nth-child(2)
-    .x1c4vz4f:nth-child(7)
-    .html-div:nth-child(1) {
-    background: rgba(255, 255, 255, 0.15);
-    backdrop-filter: blur(10px) saturate(180%);
-    -webkit-backdrop-filter: blur(10px) saturate(180%);
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-  .x9f619:nth-child(1)
-    > .x9f619:nth-child(1)
-    > .x9f619:nth-child(2)
-    .x1c4vz4f:nth-child(8)
-    .html-div:nth-child(1) {
-    background: rgba(255, 255, 255, 0.15);
-    backdrop-filter: blur(10px) saturate(180%);
-    -webkit-backdrop-filter: blur(10px) saturate(180%);
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-  .x1n2onr6 > .x1iorvi4:nth-child(1) {
-    background: rgba(255, 255, 255, 0.15);
-    backdrop-filter: blur(10px) saturate(180%);
-    -webkit-backdrop-filter: blur(10px) saturate(180%);
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-  .x1i10hfl > .x6s0dn4 > .x78zum5 > .html-div {
-    background: rgba(255, 255, 255, 0.15);
-    backdrop-filter: blur(10px) saturate(180%);
-    -webkit-backdrop-filter: blur(10px) saturate(180%);
-    box-shadow: 0 8px 64px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-  .x1l31dnx {
-    background: rgba(255, 255, 255, 0.15);
-    backdrop-filter: blur(10px) saturate(180%);
-    -webkit-backdrop-filter: blur(10px) saturate(180%);
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+    border-radius: 1rem;
+    border: 1px solid rgba(0, 0, 0, 0.16);
+}
 
-  .xezm23g {
-    background: rgba(255, 255, 255, 0.15);
+div > div:nth-child(1) > div > div:nth-child(3) > div.xtijo5x.xv54qhq.x135b78x.xixxii4.x13vifvy.xzkaem6 > div > div > div > div.xu96u03.xm80bdy.x10l6tqk.x13vifvy > div.x1uvtmcs.x4k7w5x.x1h91t0o.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1n2onr6.x1qrby5j.x1jfb8zj > div > div > div > div > div > div > div > div > div > div.x9f619.x1ja2u2z.x1k90msu.x6o7n8i.x1qfuztq.x1o0tod.x10l6tqk.x13vifvy.x1hc1fzr.x71s49j.xh8yej3 > div > div > div:nth-child(1) > div.x1gslohp.x1ys307a.x1yztbdb.xyqm7xq > div > div > div > div > div > div {
+background: rgba(255, 255, 255, 0.35);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+    border-radius: 1rem;
+    border: 1px solid rgba(0, 0, 0, 0.16);
+}
 
-  div.x1cvmir6 {
-    background: rgba(255, 255, 255, 0.15);
+div > div:nth-child(1) > div > div:nth-child(3) > div.xtijo5x.xv54qhq.x135b78x.xixxii4.x13vifvy.xzkaem6 > div > div > div > div.xu96u03.xm80bdy.x10l6tqk.x13vifvy > div.x1uvtmcs.x4k7w5x.x1h91t0o.x1beo9mf.xaigb6o.x12ejxvf.x3igimt.xarpa2k.xedcshv.x1lytzrv.x1t2pt76.x7ja8zs.x1n2onr6.x1qrby5j.x1jfb8zj > div > div > div > div > div > div > div > div > div > div.x9f619.x1ja2u2z.x1k90msu.x6o7n8i.x1qfuztq.x1o0tod.x10l6tqk.x13vifvy.x1hc1fzr.x71s49j.xh8yej3 > div > div > div > div.xat24cr.x1lziwak.x14z9mp > div > div > div > div > div > div.html-div.x1qjc9v5.x9f619.x78zum5.xdt5ytf.x1iyjqo2.xl56j7k.xeuugli.xifccgj.x4cne27.xw01apr.x1ws5yxj.xbktkl8.x1tr5nd9.x3su7b9.x12pbpz1.x1gtkyd9.x1r8uycs > div > div:nth-child(1) > div {
+background: rgba(255, 255, 255, 0.35);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
+
+div > div:nth-child(1) > div > div:nth-child(3) > div.xtijo5x.xv54qhq.x135b78x.xixxii4.x13vifvy.xzkaem6 > div.x6s0dn4.x78zum5.x1s65kcs.x1n2onr6.x1ja2u2z > div > span > span > div > div.x1i10hfl.xjqpnuy.xc5r6h4.xqeqjp1.x1phubyo.x13fuv20.x18b5jzi.x1q0q8m5.x1t7ytsu.x1ypdohk.xdl72j9.x2lah0s.x3ct3a4.xdj266r.x14z9mp.xat24cr.x1lziwak.x2lwn1j.xeuugli.x16tdsg8.x1hl2dhg.xggy1nq.x1ja2u2z.x1t137rt.x1q0g3np.x87ps6o.x1lku1pv.x1a2a7pz.x6s0dn4.x1iwo8zk.x1033uif.x179ill4.x1b60jn0.x972fbf.x10w94by.x1qhh985.x14e42zd.x9f619.x78zum5.xl56j7k.xexx8yu.xyri2b.x18d9i69.x1c1uobl.x1n2onr6.x1vqgdyp.x100vrsf.x1qhmfi1 {
+background: rgba(255, 255, 255, 0.35);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+}
+
+div > div:nth-child(1) > div > div:nth-child(3) > div.xtijo5x.xv54qhq.x135b78x.xixxii4.x13vifvy.xzkaem6 > div.x6s0dn4.x78zum5.x1s65kcs.x1n2onr6.x1ja2u2z > div:nth-child(1) > span > span > div {
+background: rgba(255, 255, 255, 0.35);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+}
+
+div > div:nth-child(1) > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div > div.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1ja2u2z.x10cihs4 > div.x9f619.x2lah0s.x1nhvcw1.x1qjc9v5.xozqiw3.x1q0g3np.x78zum5.x1iyjqo2.x1t2pt76.x1n2onr6.x1ja2u2z > div.x9f619.x1n2onr6.x78zum5.xdt5ytf.x193iq5w.xeuugli.x2lah0s.x1t2pt76.x1xzczws.x1cvmir6.x1vjfegm.x1daaz14 {
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+}
+div > div:nth-child(1) > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div > div.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1ja2u2z.x10cihs4 > div.x9f619.x2lah0s.x1nhvcw1.x1qjc9v5.xozqiw3.x1q0g3np.x78zum5.x1iyjqo2.x1t2pt76.x1n2onr6.x1ja2u2z > div.x9f619.x1n2onr6.x78zum5.xdt5ytf.x193iq5w.xeuugli.x2lah0s.x1t2pt76.x1xzczws.x1cvmir6.x1vjfegm.x1daaz14 > div {
+background: rgba(255, 255, 255, 0.35);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border: 1px solid rgba(255, 255, 255, 0.8);
+}
+
+div > div:nth-child(1) > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div > div.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1ja2u2z.x10cihs4 > div.x9f619.x2lah0s.x1nhvcw1.x1qjc9v5.xozqiw3.x1q0g3np.x78zum5.x1iyjqo2.x1t2pt76.x1n2onr6.x1ja2u2z > div.x9f619.x1n2onr6.x78zum5.xdt5ytf.x193iq5w.xeuugli.x2lah0s.x1t2pt76.x1xzczws.x1cvmir6.x1vjfegm.x1daaz14 > div > div.xb57i2i.x1q594ok.x5lxg6s.x78zum5.xdt5ytf.x6ikm8r.x1ja2u2z.x1pq812k.x1rohswg.xfk6m8.x1yqm8si.xjx87ck.x1l7klhg.x1iyjqo2.xs83m0k.x2lwn1j.xx8ngbg.xwo3gff.x1oyok0e.x1odjw0f.x1e4zzel.x1n2onr6.xq1qtft > div.x78zum5.xdt5ytf.x1iyjqo2.x1n2onr6 > div.x1e56ztr.x1gslohp > div > div > div.x1xmf6yo.x1e56ztr.xyqm7xq.x1ys307a > a > div {
+background: rgba(255, 255, 255, 0.35);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+}
+
+div > div:nth-child(1) > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div > div.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1ja2u2z.x10cihs4 > div.x9f619.x2lah0s.x1nhvcw1.x1qjc9v5.xozqiw3.x1q0g3np.x78zum5.x1iyjqo2.x1t2pt76.x1n2onr6.x1ja2u2z > div.x9f619.x1n2onr6.x78zum5.xdt5ytf.x193iq5w.xeuugli.x2lah0s.x1t2pt76.x1xzczws.x1cvmir6.x1vjfegm.x1daaz14 > div > div.xb57i2i.x1q594ok.x5lxg6s.x78zum5.xdt5ytf.x6ikm8r.x1ja2u2z.x1pq812k.x1rohswg.xfk6m8.x1yqm8si.xjx87ck.x1l7klhg.x1iyjqo2.xs83m0k.x2lwn1j.xx8ngbg.xwo3gff.x1oyok0e.x1odjw0f.x1e4zzel.x1n2onr6.xq1qtft > div.x78zum5.xdt5ytf.x1iyjqo2.x1n2onr6 > div.x1e56ztr.x1gslohp > div > div > div > a  > div.x6s0dn4.x1q0q8m5.x1qhh985.x18b5jzi.x10w94by.x1t7ytsu.x14e42zd.x13fuv20.x972fbf.x9f619.x78zum5.x1q0g3np.x1iyjqo2.xs83m0k.x1qughib.xat24cr.x14z9mp.x1lziwak.xdj266r.xeuugli.x18d9i69.xf159sx.xmzvs34.xexx8yu.x1n2onr6.x1ja2u2z.x1gg8mnh > div.x78zum5.xdt5ytf.x1xmf6yo.x1e56ztr.xbmvrgn.x1n2onr6.xqcrz7y.xv2ei83.x1og3r51.xfo7p31.x12lgkml.xv3fwf9 > div {
+background: rgba(255, 255, 255, 0.35);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+}
+
+div > div:nth-child(1) > div > div.x9f619.x1n2onr6.x1ja2u2z > div > div > div.x78zum5.xdt5ytf.x1t2pt76.x1n2onr6.x1ja2u2z.x10cihs4 > div.x9f619.x2lah0s.x1nhvcw1.x1qjc9v5.xozqiw3.x1q0g3np.x78zum5.x1iyjqo2.x1t2pt76.x1n2onr6.x1ja2u2z > div.x9f619.x1n2onr6.x78zum5.xdt5ytf.x193iq5w.xeuugli.x2lah0s.x1t2pt76.x1xzczws.x1cvmir6.x1vjfegm.x1daaz14 > div > div.xb57i2i.x1q594ok.x5lxg6s.x78zum5.xdt5ytf.x6ikm8r.x1ja2u2z.x1pq812k.x1rohswg.xfk6m8.x1yqm8si.xjx87ck.x1l7klhg.x1iyjqo2.xs83m0k.x2lwn1j.xx8ngbg.xwo3gff.x1oyok0e.x1odjw0f.x1e4zzel.x1n2onr6.xq1qtft > div.x78zum5.xdt5ytf.x1iyjqo2.x1n2onr6 > div.x1e56ztr.x1gslohp > div > div > div > a [aria-current="page"]  > div.x6s0dn4.x1q0q8m5.x1qhh985.x18b5jzi.x10w94by.x1t7ytsu.x14e42zd.x13fuv20.x972fbf.x9f619.x78zum5.x1q0g3np.x1iyjqo2.xs83m0k.x1qughib.xat24cr.x14z9mp.x1lziwak.xdj266r.xeuugli.x18d9i69.xf159sx.xmzvs34.xexx8yu.x1n2onr6.x1ja2u2z.x1gg8mnh > div.x78zum5.xdt5ytf.x1xmf6yo.x1e56ztr.xbmvrgn.x1n2onr6.xqcrz7y.xv2ei83.x1og3r51.xfo7p31.x12lgkml.xv3fwf9 > div {
+background: rgba(255, 255, 255, 0.35);
+  filter: var(--always-black);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+}
 }
