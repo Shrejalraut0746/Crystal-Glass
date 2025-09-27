@@ -1,14 +1,14 @@
 /* ==UserStyle==
 @name           Crystal Glass Google-Gemini
 @namespace      github.com/CtorW/
-@version        3.0.0
+@version        4.0.0
 @license        CC-BY-NC-ND-4.0
 @description    Crystal Glass Theme For Google-Gemini by CtorW
 @author         CtorW
 ==/UserStyle== */
 
 @-moz-document domain("gemini.google.com") {
-  .gds-mode-switch-button > .mat-focus-indicator {
+div[id^="mat-menu-panel"]  {
     background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
@@ -16,9 +16,9 @@
     border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 
-  .mat-menu-panel {
+div[id^="mat-menu-panel"]  > div > div > div.upgrade-container.helium-upsell-container.ng-star-inserted > div.upgrade-button-container > button {
     background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
@@ -26,18 +26,9 @@
     border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 
-  .upsell-button {
-    background: rgba(27, 80, 215, 0.16);
-    backdrop-filter: blur(10px) saturate(180%);
-    -webkit-backdrop-filter: blur(10px) saturate(180%);
-    border-radius: 1rem;
-    border: 1px solid rgba(255, 255, 255, 0.8);
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-  .user-query-bubble-with-background {
+#app-root > main > div > bard-mode-switcher > div > button {
     background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
@@ -45,20 +36,87 @@
     border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-  .avatar {
+}
+
+#app-root > main > side-navigation-v2 > bard-sidenav-container > bard-sidenav {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+}
+
+#app-root > main > div > button {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+}
+
+#app-root > main > side-navigation-v2 > bard-sidenav-container > bard-sidenav > side-navigation-content > div > div > mat-action-list.mat-mdc-action-list.mat-mdc-list-base.mdc-list.top-action-list.ng-star-inserted > side-nav-action-button > button.mdc-icon-button.mat-mdc-icon-button.mat-mdc-button-base.mat-mdc-tooltip-trigger.temp-chat-button.ng-tns-c549185275-9.mat-unthemed.ng-star-inserted {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+}
+
+div[id^="conversations-list"] > div > div.mat-mdc-tooltip-trigger.conversation.ng-tns-c559597156-12.ng-trigger.ng-trigger-conversationListRevealAnimation.selected {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+  filter: drop-shadow(8px 8px 50px blue)
+}
+
+[id^="user-query-content"] > span {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+}
+
+[id^="message-content-id-r_"] {
+  padding: 1rem;
+  margin-bottom: 10px;
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+}
+
+bard-avatar {
     padding: 5px;
     background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
-    border-radius: 50%;
-    border: 1px solid rgba(255, 255, 255, 0.8);
+    border-radius: 1rem;
+    border: 1px solid rgba(0, 0, 0, 0.5);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-  .response-content {
-    padding: 2rem;
-    margin-bottom: 1rem;
+  filter: drop-shadow(8px 8px 25px blue)
+}
+
+#app-root > main > top-bar-actions > div > div > upsell-button > button {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+  filter: drop-shadow(8px 8px 10px blue)
+}
+
+div[id^="cdk-overlay-"].cdk-overlay-pane:nth-child(-n + 999) > mat-card {
     background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
@@ -66,9 +124,9 @@
     border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 
-  .mat-mdc-menu-content {
+#app-root > main > side-navigation-v2 > bard-sidenav-container > bard-sidenav-content > div.content-wrapper > div > div.content-container > chat-window > div > input-container > div > input-area-v2 > div > div > div.trailing-actions-wrapper.ng-tns-c4168786212-7 > div > div.mat-mdc-tooltip-trigger.send-button-container.ng-tns-c4168786212-7.inner.ng-star-inserted.visible > button {
     background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
@@ -76,35 +134,35 @@
     border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 
-  .mat-mdc-menu-panel {
+#app-root > main > side-navigation-v2 > bard-sidenav-container > bard-sidenav-content > div.content-wrapper > div > div.content-container > chat-window > div > input-container > div > input-area-v2 > div > div {
     background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px) saturate(180%);
+    -webkit-backdrop-filter: blur(10px) saturate(180%);
+    border-radius: 1rem;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
+      inset 0 4px 20px rgba(255, 255, 255, 0.3);
+}
+
+div [id^="mat-mdc-dialog-"] > div > div {
+      background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 
-  .mdc-icon-button {
-    background: rgba(255, 255, 255, 0.15);
-    backdrop-filter: blur(10px) saturate(180%);
-    -webkit-backdrop-filter: blur(10px) saturate(180%);
-    border-radius: 50%;
-    border: 1px solid rgba(255, 255, 255, 0.8);
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
-      inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
-
-  [id^="cdk-overlay-"] > mat-card {
-    background: rgba(255, 255, 255, 0.15);
+div [id^="mat-mdc-dialog-"] > div > div > message-dialog > mat-dialog-actions > button {
+      background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(10px) saturate(180%);
     -webkit-backdrop-filter: blur(10px) saturate(180%);
     border-radius: 1rem;
     border: 1px solid rgba(255, 255, 255, 0.8);
     box-shadow: 0 8px 32px rgba(31, 38, 135, 0.2),
       inset 0 4px 20px rgba(255, 255, 255, 0.3);
-  }
+}
 }
