@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="assets/crystal-glass-logo.png" alt="crystal-logo-ctorw" width="350"/>
+
+</div>
+
 # Crystal-Glass
 
 A collection of **website themes** designed to apply a modern "crystal glass" aesthetic. These themes are implemented using pure CSS and are intended for use on various websites.
