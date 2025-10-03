@@ -21,4 +21,4 @@ A collection of **website themes** designed to apply a modern "crystal glass" ae
 
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/CtorW/Crystal-Glass/blob/uno/LICENSE).
